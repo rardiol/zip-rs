@@ -12,7 +12,7 @@ Library to support the reading and writing of zip files.
 """
 
 [dependencies]
-flate2 = "0.2"
+flate2 = "1"
 time = "0.1"
 podio = "0.1"
 msdos_time = "0.1"
